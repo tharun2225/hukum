@@ -1,0 +1,6 @@
+tuple1=('A','B','C')
+tuple2=tuple1*3
+print(tuple2)
+
+
+

@@ -1,0 +1,19 @@
+<html>
+<head><center><b>poem</b></center></head>
+<bodybg color="pink">
+<i><p>I saw alittle frog </i><br>
+<b>he was cuter than can be </b><br>
+<u>he was sitting on a log </u><br>
+<em>and i am sure he cracked at me </em><br></p>
+<p><i>twinkle</i> little star <br>
+how i wonder what u are <br>
+<br>
+<b> up a bow the <b>what </b> so high like 
+<u>diamond<u>in the sky </P><br>
+poem <sup> poems </sup> <br>
+poem <sub>poems </sub> <br>
+<center>
+<img src="
+</center>
+</body>
+</html> 
